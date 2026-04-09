@@ -13,7 +13,7 @@ pip 包管理工具
 克隆项目
 
 ```bash
-git clone (https://git.no-fish.cn/EW-Flow/ai-video-demo.git)
+git clone https://git.no-fish.cn/EW-Flow/ai-video-demo.git
 cd ai-video-demo
 ```
 
